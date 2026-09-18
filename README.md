@@ -8,10 +8,12 @@ Solving daily leetcode problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 ## Math
 |  |
 | ------- |
