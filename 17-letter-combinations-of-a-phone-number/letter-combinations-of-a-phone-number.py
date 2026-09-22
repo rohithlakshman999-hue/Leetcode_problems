@@ -14,11 +14,9 @@ class Solution(object):
 
         for digit in dig:
             new = []
-
             for old in res:
                 for ch in list[digit]:
                     new.append(old + ch)
-
             res = new
 
-        return res
+        return new
