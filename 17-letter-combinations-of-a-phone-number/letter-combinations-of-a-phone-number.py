@@ -19,4 +19,4 @@ class Solution(object):
                     new.append(old + ch)
             res = new
 
-        return new
+        return res
