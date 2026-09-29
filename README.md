@@ -7,6 +7,7 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -44,4 +45,12 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0006-zigzag-conversion) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
