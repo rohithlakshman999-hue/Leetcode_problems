@@ -45,6 +45,7 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -53,4 +54,12 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
