@@ -1,7 +1,7 @@
 class Solution(object):
     def minEatingSpeed(self, arr, hi):
         n=len(arr)
-        l=01
+        l=1
         h=max(arr)
         while(l<=h):
             mid=(l+h)//2
