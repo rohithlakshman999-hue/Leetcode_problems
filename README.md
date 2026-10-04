@@ -11,12 +11,14 @@ Solving daily leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
