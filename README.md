@@ -64,4 +64,8 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
