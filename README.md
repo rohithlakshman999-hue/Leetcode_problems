@@ -48,6 +48,7 @@ Solving daily leetcode problems
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
@@ -60,13 +61,19 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
