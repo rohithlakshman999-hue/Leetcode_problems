@@ -12,7 +12,6 @@ class Solution(object):
             else:
                 count-=1
                 count1+=1
-
             if count1<0:
                 return False
             if count<0:
