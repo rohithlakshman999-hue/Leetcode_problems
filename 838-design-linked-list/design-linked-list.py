@@ -36,7 +36,7 @@ class MyLinkedList(object):
         temp=self.head
         while temp is not None and temp.next is not None:
             temp=temp.next
-
+            
         temp.next=new
         
 
@@ -44,17 +44,13 @@ class MyLinkedList(object):
         if index == 0:
             self.addAtHead(val)
             return
-
         i = 0
         temp = self.head
-
         while temp is not None and i < index - 1:
             temp = temp.next
             i += 1
-
         if temp is None:
             return
-
         new = Node(val)
         new.next = temp.next
         temp.next = new
@@ -63,21 +59,16 @@ class MyLinkedList(object):
     def deleteAtIndex(self, index):
         if self.head is None:
             return
-
         if index == 0:
             self.head = self.head.next
             return
-
         i = 0
         temp = self.head
-
         while temp.next is not None and i < index - 1:
             temp = temp.next
             i += 1
-
         if temp.next is not None:
             temp.next = temp.next.next
-
         
 
 
