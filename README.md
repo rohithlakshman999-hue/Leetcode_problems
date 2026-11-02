@@ -70,10 +70,15 @@ Solving daily leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0328-odd-even-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
