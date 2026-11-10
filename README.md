@@ -12,6 +12,7 @@ Solving daily leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -60,10 +61,12 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
