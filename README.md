@@ -11,6 +11,7 @@ Solving daily leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -87,4 +88,20 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0061-rotate-list) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
