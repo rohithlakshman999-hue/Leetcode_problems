@@ -52,6 +52,7 @@ Solving daily leetcode problems
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
@@ -67,6 +68,7 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -83,6 +85,7 @@ Solving daily leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
@@ -104,4 +107,8 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
