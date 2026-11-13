@@ -8,6 +8,7 @@ Solving daily leetcode problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0162-find-peak-element) |
@@ -94,6 +95,7 @@ Solving daily leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0164-maximum-gap) |
 ## Bucket Sort
 |  |
@@ -111,4 +113,8 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
