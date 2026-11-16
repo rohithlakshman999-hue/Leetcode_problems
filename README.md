@@ -70,6 +70,7 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -120,4 +121,8 @@ Solving daily leetcode problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0056-merge-intervals) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rohithlakshman999-hue/Leetcode_problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
