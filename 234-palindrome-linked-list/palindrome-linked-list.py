@@ -18,5 +18,3 @@ class Solution(object):
             a.pop()
             temp=temp.next
         return True
-        
-        
